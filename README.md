@@ -18,3 +18,11 @@ A simple Python project that analyzes CSV data using Pandas.
 
 2. Run the script:
    python main.py
+
+   ## How to Run
+
+1. Install pandas:
+   pip install pandas
+
+2. Run the script:
+   python main.py
