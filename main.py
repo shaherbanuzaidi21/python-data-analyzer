@@ -11,3 +11,5 @@ def analyze_data(file):
 
 if __name__ == "__main__":
     analyze_data("data.csv")
+
+print("\nTotal rows:", len(df))
